@@ -1,0 +1,364 @@
+{
+    "error_open": 70,
+    "all_open": 607,
+    "actiontype_notmatch_gt": {
+        "actiontype_notmatch_numbers": 30,
+        "actiontype_notmatch_details": [
+            {
+                "questionID": "7499_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"History of Art\", \"action_desc\": \"Open the History of art app.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up\"}"
+            },
+            {
+                "questionID": "11326_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Stellarium\", \"action_desc\": \"Open the Stellarium app.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"system_button\", \"button\": \"Back\", \"action_desc\": \"Go back to the previous page.\"}"
+            },
+            {
+                "questionID": "18302_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Guardian\", \"action_desc\": \"Open the Guardian app.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [93, 717], \"action_desc\": \"Click on the ZigWheels.com tab.\"}"
+            },
+            {
+                "questionID": "1895_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"ClevCalc\", \"action_desc\": \"Open the ClevCal app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [370, 192], \"action_desc\": \"Click on the AMD drop down\"}"
+            },
+            {
+                "questionID": "12614_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Wattpad\", \"action_desc\": \"Open the Wattpad app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"system_button\", \"button\": \"Back\", \"action_desc\": \"Go back to the previous page\"}"
+            },
+            {
+                "questionID": "296_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Expert Paper art & Professional Origami Designing steps\", \"action_desc\": \"Open the Expert Paper art app.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [189, 1082], \"action_desc\": \"Click on the search icon at the bottom of the screen\"}"
+            },
+            {
+                "questionID": "8579_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Phases of the Moon\", \"action_desc\": \"Open the Phases of the Moon app.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [479, 729], \"action_desc\": \"Click on the info icon of the moon to view the details.\"}"
+            },
+            {
+                "questionID": "10912_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Stellarium\", \"action_desc\": \"Open the Stellarium app to find the Hercules constellation.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [469, 1039], \"action_desc\": \"Click on the cross icon at the bottom right corner of the screen.\"}"
+            },
+            {
+                "questionID": "16588_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"JioMart\", \"action_desc\": \"Open the JioMart app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [37, 99], \"action_desc\": \"Click on the back arrow at the top left corner of the screen.\"}"
+            },
+            {
+                "questionID": "18703_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Lazada\", \"action_desc\": \"Open Lazada App\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [379, 1084], \"action_desc\": \"Click on the FILTER option at the bottom right corner of the screen\"}"
+            },
+            {
+                "questionID": "11728_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Guardian\", \"action_desc\": \"Open Guardian app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [430, 475], \"action_desc\": \"Open Guardian app\"}"
+            },
+            {
+                "questionID": "13440_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Trip.com\", \"action_desc\": \"Open trips.com app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"system_button\", \"button\": \"Back\", \"action_desc\": \"Go back to the previous page\"}"
+            },
+            {
+                "questionID": "8506_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Phases of the Moon\", \"action_desc\": \"open the phases of the moon app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [139, 246], \"action_desc\": \"Click on the first image on the left side of the screen.\"}"
+            },
+            {
+                "questionID": "14154_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Arts & Culture\", \"action_desc\": \"Open the Arts & Culture app.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [376, 349], \"action_desc\": \"Click on the second image on the right side of the screen.\"}"
+            },
+            {
+                "questionID": "8248_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Phases of the Moon\", \"action_desc\": \"Open the Phases of the moon app.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"system_button\", \"button\": \"Back\", \"action_desc\": \"Go back to the previous page.\"}"
+            },
+            {
+                "questionID": "3238_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Pinterest\", \"action_desc\": \"Open the Pinterest app.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [49, 90], \"action_desc\": \"Click on the back button.\"}"
+            },
+            {
+                "questionID": "13428_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"CruiseDeals\", \"action_desc\": \"Open the CruiseDeals app.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"system_button\", \"button\": \"Back\", \"action_desc\": \"Go back to the home screen of the app.\"}"
+            },
+            {
+                "questionID": "10726_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"NykaaFashion\", \"action_desc\": \"Open NykaaFaishon App\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [352, 99], \"action_desc\": \"Click on the search icon at the top of the screen\"}"
+            },
+            {
+                "questionID": "13688_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Lunar Phase\", \"action_desc\": \"Open the Lunar phase app.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [363, 167], \"action_desc\": \"Click on the wed Dec 20 at the top of the screen.\"}"
+            },
+            {
+                "questionID": "11242_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Flipboard\", \"action_desc\": \"Open the Flipboard app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"system_button\", \"button\": \"Back\", \"action_desc\": \"Go back to the previous page\"}"
+            },
+            {
+                "questionID": "140_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"PocketBook\", \"action_desc\": \"open the PocketBook app.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [252, 606], \"action_desc\": \"Click on the mid of the screen.\"}"
+            },
+            {
+                "questionID": "7201_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Vimeo\", \"action_desc\": \"open the Vimeo app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [351, 97], \"action_desc\": \"Click on the setting icon at the top right side of the screen\"}"
+            },
+            {
+                "questionID": "15017_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"myTuner Radio, Podcasts, Music, Songs, News\", \"action_desc\": \"Open the myTuner Radio app.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [276, 691], \"action_desc\": \"Click on the first podcast to play it.\"}"
+            },
+            {
+                "questionID": "2856_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Google News\", \"action_desc\": \"Open the Google News app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"system_button\", \"button\": \"Back\", \"action_desc\": \"Go back to the previous page\"}"
+            },
+            {
+                "questionID": "12816_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Behance\", \"action_desc\": \"Open the Behance app.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"system_button\", \"button\": \"Back\", \"action_desc\": \"Go back to the search results.\"}"
+            },
+            {
+                "questionID": "11239_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Google News\", \"action_desc\": \"Open the Google News app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [216, 894], \"action_desc\": \"Click on the Kharge reaches out to INDIA article\"}"
+            },
+            {
+                "questionID": "5673_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Smartify\", \"action_desc\": \"Open the Smartify app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"system_button\", \"button\": \"Back\", \"action_desc\": \"Go back to the previous page\"}"
+            },
+            {
+                "questionID": "3700_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Flipboard\", \"action_desc\": \"Open Flipboard app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [310, 315], \"action_desc\": \"Open Google News app\"}"
+            },
+            {
+                "questionID": "2387_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Pizza Max\", \"action_desc\": \"open pizza max app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [363, 95], \"action_desc\": \"click on the search icon at the top right corner of the screen\"}"
+            },
+            {
+                "questionID": "16353_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Shopsy\", \"action_desc\": \"Open the Shopsy app.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"down\", \"action_desc\": \"Swipe down to view the ratings.\"}"
+            }
+        ]
+    },
+    "actiontype_match_gt": {
+        "actiontype_match_numbers": 40,
+        "actiontype_match_details": [
+            {
+                "questionID": "16674_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Easy Timezones\", \"action_desc\": \"Go to the Easy Time Zone Converter app.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"Easy Time Zone Converter\", \"action_desc\": \"Open the Easy Time Zone Converter app.\"}"
+            },
+            {
+                "questionID": "6443_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Furlenco\", \"action_desc\": \"Open Furlenco app.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"IKEA\", \"action_desc\": \"Open IKEA app.\"}"
+            },
+            {
+                "questionID": "16212_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Dailyhunt\", \"action_desc\": \"Open Daily Hunt news app.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"Daily Hunt\", \"action_desc\": \"Open the Daily Hunt app.\"}"
+            },
+            {
+                "questionID": "14735_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"NYTimes\", \"action_desc\": \"Open the New York times news app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"New York Times\", \"action_desc\": \"Open the New York Times News app\"}"
+            },
+            {
+                "questionID": "10724_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Trainline\", \"action_desc\": \"Open the Trainline app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"Maps\", \"action_desc\": \"Open Maps App\"}"
+            },
+            {
+                "questionID": "12123_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Sketchar\", \"action_desc\": \"Open the Sketchar app.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"Skech\", \"action_desc\": \"Open the Sketchar app.\"}"
+            },
+            {
+                "questionID": "18173_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"DailyArt\", \"action_desc\": \"open the daily art app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"Daily Art\", \"action_desc\": \"Open the Daily art app\"}"
+            },
+            {
+                "questionID": "3010_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"TOI\", \"action_desc\": \"Open the Times of India app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"The Times of India\", \"action_desc\": \"Open The Times of India news app\"}"
+            },
+            {
+                "questionID": "16491_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"My Moon Phase\", \"action_desc\": \"open the My Moon phase app.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"MyMoon\", \"action_desc\": \"Open the My Moon app.\"}"
+            },
+            {
+                "questionID": "9314_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"NYTimes\", \"action_desc\": \"Open The New York Times App\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"The New York Times\", \"action_desc\": \"Open the The New York Times App\"}"
+            },
+            {
+                "questionID": "7249_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Plantora\", \"action_desc\": \"Open the Plantora app.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"PlantSnap\", \"action_desc\": \"Open the Plantora app.\"}"
+            },
+            {
+                "questionID": "7298_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Unit Converter\", \"action_desc\": \"Open Unit Converter app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"Goal\", \"action_desc\": \"Open Goal app\"}"
+            },
+            {
+                "questionID": "2098_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"TOI\", \"action_desc\": \"Open the Times of India news app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"Times of India\", \"action_desc\": \"Open the Times of India app\"}"
+            },
+            {
+                "questionID": "8044_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"NYTimes\", \"action_desc\": \"Open the NY Times app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"NY Times\", \"action_desc\": \"Open NY Times app\"}"
+            },
+            {
+                "questionID": "5852_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"TOI\", \"action_desc\": \"Open Times of India News app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"Times of India\", \"action_desc\": \"Open Times of India app\"}"
+            },
+            {
+                "questionID": "12245_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"NYTimes\", \"action_desc\": \"Open the New York times news app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"The New York Times\", \"action_desc\": \"Open The New York Times app\"}"
+            },
+            {
+                "questionID": "10089_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"NYTimes\", \"action_desc\": \"Open the New York Times app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"New York Times\", \"action_desc\": \"Open the New York Times app\"}"
+            },
+            {
+                "questionID": "7614_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"NYTimes\", \"action_desc\": \"Open the New York Times news app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"New York Times\", \"action_desc\": \"Open the New York Times app\"}"
+            },
+            {
+                "questionID": "4535_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Unit Converter\", \"action_desc\": \"Open Unit converter App\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"Khan Academy\", \"action_desc\": \"Open Khan Academy app\"}"
+            },
+            {
+                "questionID": "4889_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"NYTimes\", \"action_desc\": \"Open The New York Times news app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"The New York Times\", \"action_desc\": \"Open The New York Times news app\"}"
+            },
+            {
+                "questionID": "1821_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Hotels.com\", \"action_desc\": \"Open Hotels.com app.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"Booking.com\", \"action_desc\": \"Open booking.com app.\"}"
+            },
+            {
+                "questionID": "16760_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Vimeo\", \"action_desc\": \"Open vimeo app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"YouTube\", \"action_desc\": \"Open the YouTube app\"}"
+            },
+            {
+                "questionID": "10911_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"NYTimes\", \"action_desc\": \"Open the New York Times app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"The New York Times\", \"action_desc\": \"Open the New York Times app\"}"
+            },
+            {
+                "questionID": "8064_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Myntra\", \"action_desc\": \"Open Myntra app.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"Nike\", \"action_desc\": \"Open Nike app.\"}"
+            },
+            {
+                "questionID": "5215_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Kobo Books\", \"action_desc\": \"Open Kobo books\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"Kindle\", \"action_desc\": \"Open Kindle app\"}"
+            },
+            {
+                "questionID": "11429_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"TOI\", \"action_desc\": \"Open the Times of India news app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"Times of India\", \"action_desc\": \"Open the Times of India news app\"}"
+            },
+            {
+                "questionID": "15036_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Expedia\", \"action_desc\": \"Open the Expedia app.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"Skyscanner\", \"action_desc\": \"Open Skyscanner app.\"}"
+            },
+            {
+                "questionID": "7455_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"MobiDrive\", \"action_desc\": \"Open the MobiDrive app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"Vimeo\", \"action_desc\": \"Open the vimeo app\"}"
+            },
+            {
+                "questionID": "3128_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"To Do List\", \"action_desc\": \"Open the to-do list app.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"Reminder\", \"action_desc\": \"Open the Reminder app.\"}"
+            },
+            {
+                "questionID": "2484_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"NYTimes\", \"action_desc\": \"Open the New York Times News app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"New York Times\", \"action_desc\": \"Open the New York Times News app\"}"
+            },
+            {
+                "questionID": "8917_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"TOI\", \"action_desc\": \"Open the Times of India news app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"Times of India\", \"action_desc\": \"Open the Times of India app\"}"
+            },
+            {
+                "questionID": "104_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"SmartNews\", \"action_desc\": \"Open the SmartNews App\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"Smart News\", \"action_desc\": \"Open the smart news app\"}"
+            },
+            {
+                "questionID": "2961_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"TOI\", \"action_desc\": \"Open The Times Of India App\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"The Times of India\", \"action_desc\": \"Open The Times Of India App\"}"
+            },
+            {
+                "questionID": "16228_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"TOI\", \"action_desc\": \"Open the Times of India app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"Times of India\", \"action_desc\": \"Open the Times of India app\"}"
+            },
+            {
+                "questionID": "14310_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"TOI\", \"action_desc\": \"Open the Times of India news app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"Times of India\", \"action_desc\": \"Open the Times of India news app\"}"
+            },
+            {
+                "questionID": "8982_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Sketchar\", \"action_desc\": \"Open the Sketchar app.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"Skech\", \"action_desc\": \"Open the Sketchar app.\"}"
+            },
+            {
+                "questionID": "7184_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"Video Audio\", \"action_desc\": \"Open the Video Audio app.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"VideoAudio\", \"action_desc\": \"Open the video audio app.\"}"
+            },
+            {
+                "questionID": "12736_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"DailyArt\", \"action_desc\": \"Open Daily Art app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"Daily Art\", \"action_desc\": \"Open the Daily Art app\"}"
+            },
+            {
+                "questionID": "2195_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"NYTimes\", \"action_desc\": \"Open The New York times app\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"The New York Times\", \"action_desc\": \"Open the New York Times app\"}"
+            },
+            {
+                "questionID": "12182_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"open\", \"text\": \"KLM\", \"action_desc\": \"Open the KLM app.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"open\", \"text\": \"KAYAK\", \"action_desc\": \"Open the Kayak app.\"}"
+            }
+        ]
+    }
+}

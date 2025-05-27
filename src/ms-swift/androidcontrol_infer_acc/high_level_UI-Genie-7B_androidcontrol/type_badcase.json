@@ -1,0 +1,469 @@
+{
+    "error_type": 91,
+    "all_type": 631,
+    "actiontype_notmatch_gt": {
+        "actiontype_notmatch_numbers": 36,
+        "actiontype_notmatch_details": [
+            {
+                "questionID": "898_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Graig Road\", \"action_desc\": \"Enter Graig Road as the start location\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [281, 172], \"action_desc\": \"Click on the your location\"}"
+            },
+            {
+                "questionID": "13668_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"dbwscratch.test.id8@gmail.com\", \"action_desc\": \"Type in the mail address :- dbwscratch.test.id8@gmail.com\"}}\n</tool_call>",
+                "answer": "{\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}"
+            },
+            {
+                "questionID": "2302_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \" Singapore Changi Airport \", \"action_desc\": \"Search for  Singapore Changi Airport \"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [237, 162], \"action_desc\": \"Click on the destination search bar\"}"
+            },
+            {
+                "questionID": "14265_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"dbwscratch.test.id10@gmail.com\", \"action_desc\": \"Search for dbwscratch.test.id10@gmail.com\"}}\n</tool_call>",
+                "answer": "{\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}"
+            },
+            {
+                "questionID": "2507_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Pablo Picasso\", \"action_desc\": \"Enter a Pablo Picasso\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [463, 1032], \"action_desc\": \"Click on the search icon at the bottom right corner of the screen\"}"
+            },
+            {
+                "questionID": "4916_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Westvest 7 Delft,Netherlands\", \"action_desc\": \"Type in Westvest 7 Delft,Netherlands.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [281, 172], \"action_desc\": \"Click on the first option.\"}"
+            },
+            {
+                "questionID": "18679_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Confidence\", \"action_desc\": \"Type Confidence\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [252, 526], \"action_desc\": \"Click on the Double tap to add title\"}"
+            },
+            {
+                "questionID": "5312_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"dbwscratch.test.id10@gmail.com\", \"action_desc\": \"Search for dbwscratch.test.id10@gmail.com\"}}\n</tool_call>",
+                "answer": "{\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}"
+            },
+            {
+                "questionID": "8780_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Paramedic\", \"action_desc\": \"Type Paramedic\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [455, 96], \"action_desc\": \"Click on the search box\"}"
+            },
+            {
+                "questionID": "9283_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Oye como va\\\"\", \"action_desc\": \"Type \\\"Oye como va\\\" in the Input box.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"long_press\", \"coordinate\": [463, 957], \"time\": 2, \"action_desc\": \"Type \\\"Oye como va\\\" in the Input box.\"}"
+            },
+            {
+                "questionID": "5497_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Amman\", \"action_desc\": \"Type Amman in the choose start location bar.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [281, 172], \"action_desc\": \"Click on the your location option at the top of the screen.\"}"
+            },
+            {
+                "questionID": "4516_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Shakshuka recipes\", \"action_desc\": \"Enter shakshuka recipe in the textbox\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [463, 1037], \"action_desc\": \"Click on the search icon on the bottom right corner of the screen\"}"
+            },
+            {
+                "questionID": "4516_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Shakshuka recipes\", \"action_desc\": \"Enter shakshuka recipe in the textbox\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [463, 1037], \"action_desc\": \"Click on the search icon on the bottom right corner of the screen\"}"
+            },
+            {
+                "questionID": "11840_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"dbwscratch.test.id.8@gmail.com\", \"action_desc\": \"Type in the email :- dbwscratch.test.id.8@gmail.com.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}"
+            },
+            {
+                "questionID": "19697_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"dbwscratch.test.id7@gmail.com\", \"action_desc\": \"Type in the email dbwscratch.test.id7@gmail.com .\"}}\n</tool_call>",
+                "answer": "{\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}"
+            },
+            {
+                "questionID": "11412_10",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"we cant help everyone , but everyone can help someone\", \"action_desc\": \"type we cant help everyone , but everyone can help someone in center of the screen\"}}\n</tool_call>",
+                "answer": "{\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}"
+            },
+            {
+                "questionID": "219_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Solomon Hart\", \"action_desc\": \"Search for Solmon Hart\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to view more artists\"}"
+            },
+            {
+                "questionID": "4881_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Simple Sunday pot roast dinner\", \"action_desc\": \"Type Simple Sunday pot roast dinner in the search bar\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [266, 220], \"action_desc\": \"Click on the search bar\"}"
+            },
+            {
+                "questionID": "19721_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Discover magazine\", \"action_desc\": \"Click on the search bar at the top of the screen and type Discover magazine \"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [252, 213], \"action_desc\": \"Click on the first option\"}"
+            },
+            {
+                "questionID": "10726_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Cotton Shirts for Men\", \"action_desc\": \"type Cotton Shirts for Men in search bar \"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [277, 99], \"action_desc\": \"Click on the search bar at the top of the screen\"}"
+            },
+            {
+                "questionID": "6239_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"venison goulash\", \"action_desc\": \"Search for venison goulash\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [271, 99], \"action_desc\": \"Tap on the search bar at the top of the screen\"}"
+            },
+            {
+                "questionID": "19061_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Detroit\", \"action_desc\": \"Enter the starting location as Detroit .\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [281, 172], \"action_desc\": \"Click on the Your location\"}"
+            },
+            {
+                "questionID": "662_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Leonardo Da Vinci Mona lisa's painting\", \"action_desc\": \"Type \\\"Leonardo Da Vinci Mona lisa's painting\\\" in the search box.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [266, 123], \"action_desc\": \"Click on the search box at the top.\"}"
+            },
+            {
+                "questionID": "1489_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"We have a business meeting on August 30, 2023, so you are requested to be available for the same. We have to discuss each concern with the clients.\", \"action_desc\": \"Type \\\"We have a business meeting on August 30, 2023, so you are requested to be available for the same. We have to discuss each concern with the clients\\\" in the mail body.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"wait\", \"time\": 2, \"action_desc\": \"Click on the body of the email. \"}"
+            },
+            {
+                "questionID": "14940_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Quentin clark\", \"action_desc\": \"Type Quentin Clark in the pop up\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [252, 560], \"action_desc\": \"Click on the Recording_4\"}"
+            },
+            {
+                "questionID": "406_8",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"art\", \"action_desc\": \"Click on the Description as art \"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [231, 612], \"action_desc\": \"Click on the link section\"}"
+            },
+            {
+                "questionID": "17037_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Lyon city to musee des beaux arts \", \"action_desc\": \"Lyon City to the Musee des Beaux Arts in France.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [463, 1037], \"action_desc\": \"Tap on the search icon at the bottom right corner of the screen\"}"
+            },
+            {
+                "questionID": "5968_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"2000\", \"action_desc\": \"Enter the value 2000 under From Unit\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [189, 961], \"action_desc\": \"Enter the value 2000\"}"
+            },
+            {
+                "questionID": "2406_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Kieransato10@gmail.com\", \"action_desc\": \"Type kieransato10@gmail.com on the screen.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [266, 247], \"action_desc\": \"Click on the To option on the screen.\"}"
+            },
+            {
+                "questionID": "5122_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Street art\", \"action_desc\": \"Type Street art in search bar\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [463, 1037], \"action_desc\": \"Click on the search key at the bottom right corner of the keyboard\"}"
+            },
+            {
+                "questionID": "5459_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"80203\", \"action_desc\": \"Enter 80203 in the choose start location\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [281, 172], \"action_desc\": \"Click on the your location option.\"}"
+            },
+            {
+                "questionID": "13887_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"dbwscratch.test.id10@gmail.com\", \"action_desc\": \"Search for dbwscratch.test.id10@gmail.com\"}}\n</tool_call>",
+                "answer": "{\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}"
+            },
+            {
+                "questionID": "7705_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Spykar Regular Collar Men slim fit jacket\", \"action_desc\": \"Enter Spykar Regular Collar Men slim fit jacket in the search bar at the top of the screen\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [237, 146], \"action_desc\": \"Click on the search bar at the top of the screen\"}"
+            },
+            {
+                "questionID": "3241_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"4\", \"action_desc\": \"type 4 in the column at the screen \"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [63, 797], \"action_desc\": \"click on the 1 button to solve math problems \"}"
+            },
+            {
+                "questionID": "10058_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Vancouver\", \"action_desc\": \"Enter Vancouver in the search bar.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [276, 163], \"action_desc\": \"Click on the search bar.\"}"
+            },
+            {
+                "questionID": "10058_9",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Gouda\", \"action_desc\": \"Enter Gouda in the search box.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [252, 163], \"action_desc\": \"Click on the search bar.\"}"
+            }
+        ]
+    },
+    "actiontype_match_gt": {
+        "actiontype_match_numbers": 55,
+        "actiontype_match_details": [
+            {
+                "questionID": "8914_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Ukrain News\", \"action_desc\": \"Type Ukrain News\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Ukraine\", \"action_desc\": \"Search for Ukraine\"}"
+            },
+            {
+                "questionID": "17237_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Glasglow\", \"action_desc\": \"Type Glasglow in the search bar\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Glasgow\", \"action_desc\": \"Type Glasgow in the search bar\"}"
+            },
+            {
+                "questionID": "53_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"sustainability art pieces\", \"action_desc\": \"Type in sustainability art pieces.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"sustainability artwork\", \"action_desc\": \"Type in sustainability artwork.\"}"
+            },
+            {
+                "questionID": "19585_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Shanesato10@gmail.com\", \"action_desc\": \"Type Shanesato10@gmail.com on the screen.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Shanesato1973@gmail.com\", \"action_desc\": \"Type Shanesato1973@gmail.com on the screen.\"}"
+            },
+            {
+                "questionID": "18124_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Photo Album\", \"action_desc\": \"Type Photo Album on the top of the screen.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Photos\", \"action_desc\": \"Type Photos on the search bar.\"}"
+            },
+            {
+                "questionID": "17085_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"tv wallmount\", \"action_desc\": \"Search for the tv wallmount\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"tv wall mount\", \"action_desc\": \"Search for the tv wall mount\"}"
+            },
+            {
+                "questionID": "9823_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Requested Vital Documents\", \"action_desc\": \"enter the Subject Requested Vital Documents\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Request for Vital Document\", \"action_desc\": \"enter the subject name Request for Vital Document\"}"
+            },
+            {
+                "questionID": "9823_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Please find the attached file below\", \"action_desc\": \"enter the text please find the attached file below\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"mike.waggoner@hotwater.com\", \"action_desc\": \"enter the email id mike.waggoner@hotwater.com\"}"
+            },
+            {
+                "questionID": "18310_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Newark\", \"action_desc\": \"Enter Newark in the text box.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"New Jersey\", \"action_desc\": \"Enter New Jersey in the text box.\"}"
+            },
+            {
+                "questionID": "2757_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Brownie Recipe\", \"action_desc\": \"Type Brownie recipe on the top of the screen.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Brownies\", \"action_desc\": \"Type Brownies on the screen.\"}"
+            },
+            {
+                "questionID": "15316_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"As per Business requirements, your leave cannot be approved for now\", \"action_desc\": \"Type \\\"As per Business requirements, your leave cannot be approved for now\\\" in the mail body.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"I am rejecting your request for leave approval.\", \"action_desc\": \"Type I am rejecting your request for leave approval in the body of the email.\"}"
+            },
+            {
+                "questionID": "16614_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Galveston 77550\", \"action_desc\": \"enter the start location name Galveston 77550\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Moody Gardens\", \"action_desc\": \"enter the location name Moody Gardens\"}"
+            },
+            {
+                "questionID": "11077_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Striped shirt for men.\", \"action_desc\": \"Enter the product name.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Formal striped shirt for men\", \"action_desc\": \"Enter the product name.\"}"
+            },
+            {
+                "questionID": "18883_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"magazine articles\", \"action_desc\": \"Type magazine articles in the search bar\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"All\", \"action_desc\": \"Type All in the search bar\"}"
+            },
+            {
+                "questionID": "13274_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Van Heusen men's shirt\", \"action_desc\": \"search for Van Heusen men's shirt\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Van Heusen mens shirt\", \"action_desc\": \"search for Van Heusen mens shirt\"}"
+            },
+            {
+                "questionID": "19946_10",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"02-22-1958\", \"action_desc\": \"Type 02-22-1958 in the date of birth section to mention my date of birth.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"20-02-1958\", \"action_desc\": \"Type 20-02-1958 in the date of birth section to fill this section.\"}"
+            },
+            {
+                "questionID": "15063_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \" Art work\", \"action_desc\": \"Type Art work in the search bar\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Artwork\", \"action_desc\": \"Search for Artwork\"}"
+            },
+            {
+                "questionID": "17136_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Saudis to host Ukraine peace summit \", \"action_desc\": \"Type Saudis to host Ukraine peace summit in the search bar\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Saudis to host Ukraine's peace summit\", \"action_desc\": \"Type Saudis to host Ukraine's peace summit in the search bar\"}"
+            },
+            {
+                "questionID": "16703_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Russian nuclear submarine\", \"action_desc\": \"Type in the Russian nuclear submarine.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Deccan Herald\", \"action_desc\": \"Type Deccan Herald in the search bar.\"}"
+            },
+            {
+                "questionID": "9314_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Covid vaccine\", \"action_desc\": \"Type the covid vaccine in the search bar\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"covid 19 vaccine\", \"action_desc\": \"Type covid 19 vaccine in the search bar\"}"
+            },
+            {
+                "questionID": "16608_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"XYZ Ltd. & GHK Ltd.\", \"action_desc\": \"enter the note body\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Client Updates\", \"action_desc\": \"enter title Client Updates\"}"
+            },
+            {
+                "questionID": "1512_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Ulm, Germany to Black Forest, Germany\", \"action_desc\": \"Type Ulm, Germany to Black Forest, Germany in the search bar to get the directions\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Black Forest Mountain Range\", \"action_desc\": \"Type Black Forest Mountain Range in the search bar to search for the direction\"}"
+            },
+            {
+                "questionID": "4618_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Karin's Art\", \"action_desc\": \"Type Karin's Art in name bar\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Karin’s art\", \"action_desc\": \"Type Karin’s art\"}"
+            },
+            {
+                "questionID": "13072_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Ukrain News\", \"action_desc\": \"Type Ukrain News\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Ukraine\", \"action_desc\": \"Search for Ukraine\"}"
+            },
+            {
+                "questionID": "937_13",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Fav anime\", \"action_desc\": \"Add a title as Fav anime\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Anime Art\", \"action_desc\": \"Add title as Anime Art\"}"
+            },
+            {
+                "questionID": "9963_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Paramedic news\", \"action_desc\": \"Type Paramedic news\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"paramedics\", \"action_desc\": \"Type paramedics\"}"
+            },
+            {
+                "questionID": "17900_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Knoxville\", \"action_desc\": \"Type Knoxville on the top of the screen.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Upper East Side\", \"action_desc\": \"Type Upper East Side on the screen.\"}"
+            },
+            {
+                "questionID": "14287_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Black men suits\", \"action_desc\": \"Type Black men suits in search bar\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Black suit\", \"action_desc\": \"Type Black suit in search bar\"}"
+            },
+            {
+                "questionID": "17154_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Honolulu\", \"action_desc\": \"Search for Honolulu\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Find Activities\", \"action_desc\": \"Search for Find Activities\"}"
+            },
+            {
+                "questionID": "1203_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Readers Digest\", \"action_desc\": \"Type Readers Digest in the search bar\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Reader's Digest\", \"action_desc\": \"Type Reader's Digest in the search bar\"}"
+            },
+            {
+                "questionID": "4803_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"alexej von jawlensky\", \"action_desc\": \"search for alexej von jawlensky\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"alexiej von jawlensky\", \"action_desc\": \"search for alexiej von jawlensky\"}"
+            },
+            {
+                "questionID": "55_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"2 Piece sweatshirt\", \"action_desc\": \"Search for 2 Piece sweatshirt in the search bar\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"2-piece sweater\", \"action_desc\": \"Search for 2-piece sweater\"}"
+            },
+            {
+                "questionID": "3613_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"attractions near me\", \"action_desc\": \"search for attractions near me\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Sunset point\", \"action_desc\": \"search for sunset point\"}"
+            },
+            {
+                "questionID": "10559_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Paramedic news\", \"action_desc\": \"Type Paramedic news\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"paramedics\", \"action_desc\": \"Type paramedics\"}"
+            },
+            {
+                "questionID": "19461_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Arts by Leonardo da Vinci\", \"action_desc\": \"Type arts by Leonardo da Vinci.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"artworks\", \"action_desc\": \"Type artworks in the search bar.\"}"
+            },
+            {
+                "questionID": "13704_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Ukrain News\", \"action_desc\": \"Type Ukrain News\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Ukraine News\", \"action_desc\": \"Search for Ukraine News\"}"
+            },
+            {
+                "questionID": "16321_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Ukrain News\", \"action_desc\": \"Type Ukrain News\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Ukraine\", \"action_desc\": \"Search for Ukraine\"}"
+            },
+            {
+                "questionID": "11482_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Borsbeek\", \"action_desc\": \"Search the location Borsbeek belgium\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Molenstraat, Belgium\", \"action_desc\": \"Search the location Molenstraat, Belgium\"}"
+            },
+            {
+                "questionID": "11482_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Molenstraat,Belgium\", \"action_desc\": \"Search the location Molenstraat, Belgium\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Molenstraat, Belgium\", \"action_desc\": \"Search the location Molenstraat, Belgium\"}"
+            },
+            {
+                "questionID": "19038_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Paramedic news\", \"action_desc\": \"Type Paramedic \"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"paramedics\", \"action_desc\": \"Type paramedics\"}"
+            },
+            {
+                "questionID": "1501_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Mechanical engineering projects\", \"action_desc\": \"Type Mechanical engineering projects in the search bar to search for arts\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"fighter jet\", \"action_desc\": \"Type fighter jet in the search bar to search for the art.\"}"
+            },
+            {
+                "questionID": "19033_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"electronic geysers\", \"action_desc\": \"Type electronic geysers in the search bar.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"electric geyser\", \"action_desc\": \"Type electric geyser in the search bar.\"}"
+            },
+            {
+                "questionID": "15036_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Netherlands\", \"action_desc\": \"Enter Netherlands in the text box.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"London\", \"action_desc\": \"Type London in flying from option\"}"
+            },
+            {
+                "questionID": "17037_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Lyon city to musee des beaux arts \", \"action_desc\": \"Lyon City to the Musee des Beaux Arts in France.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Lyon city to the Musee des Beaux Arts in France\", \"action_desc\": \"Lyon City to the Musee des Beaux Arts in France\"}"
+            },
+            {
+                "questionID": "6346_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Japan\", \"action_desc\": \"Enter another timezone place.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Asia\", \"action_desc\": \"Enter the place, Asia.\"}"
+            },
+            {
+                "questionID": "5791_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Gouda\", \"action_desc\": \"Enter Gouda in origin text box.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"London\", \"action_desc\": \"Enter London in the textbox.\"}"
+            },
+            {
+                "questionID": "2484_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Ukrain News\", \"action_desc\": \"Type Ukrain News\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Ukraine\", \"action_desc\": \"Search for Ukraine\"}"
+            },
+            {
+                "questionID": "19477_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"93.5 FM\", \"action_desc\": \"Type 93.5 FM in search bar\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Radio GupShup 94.3 FM\", \"action_desc\": \"Type Radio GupShup 94.3 FM in search bar\"}"
+            },
+            {
+                "questionID": "18983_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Why does India have a substandard drugs problem podcast\", \"action_desc\": \"Type the Why does India have a substandard drugs problem podcast\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Why does India have a substandard drugs problem?\", \"action_desc\": \"Type \\\" Why does India have a substandard drugs problem?\\\" in the search bar\"}"
+            },
+            {
+                "questionID": "4657_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Paramedic news\", \"action_desc\": \"Type Paramedic news\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"paramedics\", \"action_desc\": \"Type paramedics\"}"
+            },
+            {
+                "questionID": "12289_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Nature\", \"action_desc\": \"Search for Nature\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"ocean\", \"action_desc\": \"Search for the sound of ocean\"}"
+            },
+            {
+                "questionID": "3031_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Orléans centre\", \"action_desc\": \"Type Orléans centre\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Orleans centre\", \"action_desc\": \"Type Orleans centre\"}"
+            },
+            {
+                "questionID": "7774_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Jitendra\", \"action_desc\": \"Name the folder.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Important files\", \"action_desc\": \"Type the folder name as Important files\"}"
+            },
+            {
+                "questionID": "12182_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Amsterdam\", \"action_desc\": \"Type in the departure city: Amsterdam.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Rotterdam\", \"action_desc\": \"Type in Rotterdam.\"}"
+            },
+            {
+                "questionID": "11800_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"type\", \"text\": \"Surfing\", \"action_desc\": \"Enter the Surfing \"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Trip to Honolulu\", \"action_desc\": \"Add the Title as Trip to Honolulu\"}"
+            }
+        ]
+    }
+}

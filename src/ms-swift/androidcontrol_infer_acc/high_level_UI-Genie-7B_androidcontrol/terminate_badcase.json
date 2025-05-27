@@ -1,0 +1,1453 @@
+{
+    "error_terminate": 288,
+    "all_terminate": 1542,
+    "actiontype_notmatch_gt": {
+        "actiontype_notmatch_numbers": 288,
+        "actiontype_notmatch_details": [
+            {
+                "questionID": "1082_14",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to view more style inspiration\"}"
+            },
+            {
+                "questionID": "73_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"left\", \"action_desc\": \"Swipe left on the screen to view upcoming phases.\"}"
+            },
+            {
+                "questionID": "282_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to view more\"}"
+            },
+            {
+                "questionID": "14556_11",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [252, 464], \"action_desc\": \"Click on the Sushi recipe\"}"
+            },
+            {
+                "questionID": "16674_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [396, 231], \"action_desc\": \"Click on the Edit button at the top right corner of the screen\"}"
+            },
+            {
+                "questionID": "2158_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [251, 667], \"action_desc\": \"Click on the Redeem button\"}"
+            },
+            {
+                "questionID": "16562_10",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll Up to read the Article\"}"
+            },
+            {
+                "questionID": "18894_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [252, 392], \"action_desc\": \"Click on the first search result\"}"
+            },
+            {
+                "questionID": "5742_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll down to view more arts on this topic.\"}"
+            },
+            {
+                "questionID": "569_19",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to read the article\"}"
+            },
+            {
+                "questionID": "17271_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [39, 99], \"action_desc\": \"Click on the menu icon at the top left corner of the screen.\"}"
+            },
+            {
+                "questionID": "7765_10",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to read more\"}"
+            },
+            {
+                "questionID": "5776_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"wait\", \"time\": 2, \"action_desc\": \"Click on the first search result.\"}"
+            },
+            {
+                "questionID": "3519_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to read\"}"
+            },
+            {
+                "questionID": "16178_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll down to view all details of this art.\"}"
+            },
+            {
+                "questionID": "6443_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"wait\", \"time\": 2, \"action_desc\": \"Click on \\\"Buy Brand New\\\".\"}"
+            },
+            {
+                "questionID": "20097_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [252, 1064], \"action_desc\": \"Tap on continue\"}"
+            },
+            {
+                "questionID": "8188_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [441, 632], \"action_desc\": \"Click on the View All option\"}"
+            },
+            {
+                "questionID": "7204_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [246, 99], \"action_desc\": \"Tap on the cross icon present at the top of the screen.\"}"
+            },
+            {
+                "questionID": "6903_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [252, 1072], \"action_desc\": \"Click on remove\"}"
+            },
+            {
+                "questionID": "7917_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [175, 408], \"action_desc\": \"Click on the first article\"}"
+            },
+            {
+                "questionID": "17065_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [126, 702], \"action_desc\": \"Click on the first search result\"}"
+            },
+            {
+                "questionID": "6424_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [252, 509], \"action_desc\": \"Tap on the Trailer present on the screen.\"}"
+            },
+            {
+                "questionID": "4680_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [252, 936], \"action_desc\": \"Click on the Play icon on the screen.\"}"
+            },
+            {
+                "questionID": "5256_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [367, 1044], \"action_desc\": \"Click on the three lines at the bottom of the screen\"}"
+            },
+            {
+                "questionID": "15409_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [468, 310], \"action_desc\": \"Click on the Layers icon\"}"
+            },
+            {
+                "questionID": "7329_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up\"}"
+            },
+            {
+                "questionID": "886_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [128, 393], \"action_desc\": \"Click on the first tab \\\"Mona lisa\\\".\"}"
+            },
+            {
+                "questionID": "10531_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [251, 928], \"action_desc\": \"Click on the restore\"}"
+            },
+            {
+                "questionID": "1542_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up to view the furniture\"}"
+            },
+            {
+                "questionID": "2507_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [128, 370], \"action_desc\": \"Click on the first result\"}"
+            },
+            {
+                "questionID": "13731_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe down to read more about it.\"}"
+            },
+            {
+                "questionID": "17082_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [39, 456], \"action_desc\": \"Click on the 3D option on the left side of the screen.\"}"
+            },
+            {
+                "questionID": "16874_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to read the article\"}"
+            },
+            {
+                "questionID": "6332_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [178, 597], \"action_desc\": \"Click on the Gallery option\"}"
+            },
+            {
+                "questionID": "15966_17",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up \"}"
+            },
+            {
+                "questionID": "17981_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe to view more pages for reading\"}"
+            },
+            {
+                "questionID": "14493_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up to view the information about the crab nebula.\"}"
+            },
+            {
+                "questionID": "19199_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [404, 1067], \"action_desc\": \"Click on the View 7 button\"}"
+            },
+            {
+                "questionID": "7194_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [251, 521], \"action_desc\": \"Click on the title section to add the title of this slide.\"}"
+            },
+            {
+                "questionID": "3751_8",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up on the screen to read the article.\"}"
+            },
+            {
+                "questionID": "9547_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll down to view all the details of this art.\"}"
+            },
+            {
+                "questionID": "8202_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [463, 1037], \"action_desc\": \"Click on the search icon at the bottom right corner of the screen\"}"
+            },
+            {
+                "questionID": "10095_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to view more\"}"
+            },
+            {
+                "questionID": "12479_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll down to track the status of the train.\"}"
+            },
+            {
+                "questionID": "5932_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [416, 843], \"action_desc\": \"Click on OK\"}"
+            },
+            {
+                "questionID": "18335_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up\"}"
+            },
+            {
+                "questionID": "19880_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"wait\", \"time\": 2, \"action_desc\": \"Click on the right side of the screen\"}"
+            },
+            {
+                "questionID": "8324_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up on the screen.\"}"
+            },
+            {
+                "questionID": "12123_12",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up on the screen.\"}"
+            },
+            {
+                "questionID": "11187_9",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to read more\"}"
+            },
+            {
+                "questionID": "8579_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll down to view the details of the current moon phase.\"}"
+            },
+            {
+                "questionID": "11417_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"dbwscratch.test.id10@gmail.com\", \"action_desc\": \"Type dbwscratch.test.id10@gmail.com in the recipient section\"}"
+            },
+            {
+                "questionID": "18883_9",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up to view the articles\"}"
+            },
+            {
+                "questionID": "1815_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to view the details\"}"
+            },
+            {
+                "questionID": "1654_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up to view more art\"}"
+            },
+            {
+                "questionID": "18173_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [295, 286], \"action_desc\": \"Click on the Romanticism\"}"
+            },
+            {
+                "questionID": "10693_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to Read the article\"}"
+            },
+            {
+                "questionID": "3761_9",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"wait\", \"time\": 2, \"action_desc\": \"Open the video \\\"Teach the color wheel\\\"\"}"
+            },
+            {
+                "questionID": "19946_11",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [252, 599], \"action_desc\": \"Click on the Submit button to submit this form.\"}"
+            },
+            {
+                "questionID": "15063_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"wait\", \"time\": 2, \"action_desc\": \"Click on the first suggested result \"}"
+            },
+            {
+                "questionID": "7643_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up on the screen.\"}"
+            },
+            {
+                "questionID": "10928_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"swipe up for more stories\"}"
+            },
+            {
+                "questionID": "13437_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to view more\"}"
+            },
+            {
+                "questionID": "4883_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [130, 396], \"action_desc\": \"Click on the first search result\"}"
+            },
+            {
+                "questionID": "20055_12",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [227, 185], \"action_desc\": \"Click on the Add label\"}"
+            },
+            {
+                "questionID": "3010_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to read the article\"}"
+            },
+            {
+                "questionID": "5342_18",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [474, 588], \"action_desc\": \"Click on the right arrow key to view the Reference Manual details\"}"
+            },
+            {
+                "questionID": "5996_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up to view the  help my plants survive\"}"
+            },
+            {
+                "questionID": "17190_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [360, 737], \"action_desc\": \"Click on New message option\"}"
+            },
+            {
+                "questionID": "17280_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"swipe up to view the similar product to compare\"}"
+            },
+            {
+                "questionID": "8703_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe down to view more\"}"
+            },
+            {
+                "questionID": "12901_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"wait\", \"time\": 2, \"action_desc\": \"Click on the first news\"}"
+            },
+            {
+                "questionID": "6670_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"scroll down to see product details\"}"
+            },
+            {
+                "questionID": "11946_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up to learn more.\"}"
+            },
+            {
+                "questionID": "5510_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to learn more\"}"
+            },
+            {
+                "questionID": "7993_8",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up\"}"
+            },
+            {
+                "questionID": "13676_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up on the screen to view art.\"}"
+            },
+            {
+                "questionID": "19660_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to read the article\"}"
+            },
+            {
+                "questionID": "4797_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [197, 343], \"action_desc\": \"Open the first search result\"}"
+            },
+            {
+                "questionID": "15999_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to view the price\"}"
+            },
+            {
+                "questionID": "6408_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to read more reviews\"}"
+            },
+            {
+                "questionID": "9837_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up to view more details of this flight.\"}"
+            },
+            {
+                "questionID": "3159_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [352, 1082], \"action_desc\": \"Click on the Wisdom option at the bottom of the screen.\"}"
+            },
+            {
+                "questionID": "11454_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up\"}"
+            },
+            {
+                "questionID": "13459_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"scroll down to see compare section\"}"
+            },
+            {
+                "questionID": "3023_9",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"dbwscratch.test.id10@gmail.com\", \"action_desc\": \"Type dbwscratch.test.id10@gmail.com in To bar\"}"
+            },
+            {
+                "questionID": "8455_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up to view the more art \"}"
+            },
+            {
+                "questionID": "2488_19",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [34, 100], \"action_desc\": \"click on the tick icon at the top left corner of the screen\"}"
+            },
+            {
+                "questionID": "1206_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [367, 792], \"action_desc\": \"Click on the Crafts tab.\"}"
+            },
+            {
+                "questionID": "2822_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [311, 984], \"action_desc\": \"Click on the Apply button\"}"
+            },
+            {
+                "questionID": "2991_10",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"left\", \"action_desc\": \"Swipe right to read more pages\"}"
+            },
+            {
+                "questionID": "8532_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to read article\"}"
+            },
+            {
+                "questionID": "16671_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up\"}"
+            },
+            {
+                "questionID": "8709_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"scroll down\"}"
+            },
+            {
+                "questionID": "10081_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [251, 260], \"action_desc\": \"Click on the second circle icon at the left.\"}"
+            },
+            {
+                "questionID": "15402_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll down to view the details of this art.\"}"
+            },
+            {
+                "questionID": "14319_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [473, 99], \"action_desc\": \"click on OK\"}"
+            },
+            {
+                "questionID": "16668_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [126, 397], \"action_desc\": \"Click on the first result\"}"
+            },
+            {
+                "questionID": "3317_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [91, 397], \"action_desc\": \"Click on the Details option to view the track option of this bus.\"}"
+            },
+            {
+                "questionID": "10841_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [147, 277], \"action_desc\": \"Click on the USA News\"}"
+            },
+            {
+                "questionID": "8261_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up to view the more artwork\"}"
+            },
+            {
+                "questionID": "11185_13",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up on the screen to view business related articles.\"}"
+            },
+            {
+                "questionID": "12946_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up to view all art pieces.\"}"
+            },
+            {
+                "questionID": "11728_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [276, 226], \"action_desc\": \"Click on first article\"}"
+            },
+            {
+                "questionID": "15167_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to view the details\"}"
+            },
+            {
+                "questionID": "1464_9",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up on the screen to read the whole article.\"}"
+            },
+            {
+                "questionID": "8500_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [468, 117], \"action_desc\": \"Click on Done option at the top right corner of the screen\"}"
+            },
+            {
+                "questionID": "11332_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"wait\", \"time\": 2, \"action_desc\": \"Open the Winter Wear section\"}"
+            },
+            {
+                "questionID": "13605_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up to learn more about Venus.\"}"
+            },
+            {
+                "questionID": "10232_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [103, 1052], \"action_desc\": \"Click on the Build number tab.\"}"
+            },
+            {
+                "questionID": "172_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to view the details of artwork\"}"
+            },
+            {
+                "questionID": "2544_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to view more\"}"
+            },
+            {
+                "questionID": "19846_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"wait\", \"time\": 2, \"action_desc\": \"Click on the Messages at the bottom of the screen\"}"
+            },
+            {
+                "questionID": "19242_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [150, 1070], \"action_desc\": \"Go to the playlists section\"}"
+            },
+            {
+                "questionID": "16501_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [374, 181], \"action_desc\": \"click on artists\"}"
+            },
+            {
+                "questionID": "15591_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to view the recipe\"}"
+            },
+            {
+                "questionID": "4216_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [463, 1032], \"action_desc\": \"click on search icon\"}"
+            },
+            {
+                "questionID": "15908_12",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to view more products\"}"
+            },
+            {
+                "questionID": "18574_9",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"wait\", \"time\": 2, \"action_desc\": \"Go to the option start learning.\"}"
+            },
+            {
+                "questionID": "5897_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"wait\", \"time\": 2, \"action_desc\": \"Click on the Save button\"}"
+            },
+            {
+                "questionID": "5741_8",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"left\", \"action_desc\": \"Swipe left to read more\"}"
+            },
+            {
+                "questionID": "12015_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [333, 341], \"action_desc\": \"Click on the first article\"}"
+            },
+            {
+                "questionID": "12434_11",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"dbwscratch.test.id5@gmail.com\", \"action_desc\": \"Type dbwscratch.test.id5@gmail.com in To bar\"}"
+            },
+            {
+                "questionID": "13746_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [126, 425], \"action_desc\": \"Click on Knoxville\"}"
+            },
+            {
+                "questionID": "19012_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [252, 175], \"action_desc\": \"Click on the first option.\"}"
+            },
+            {
+                "questionID": "15252_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to view the recipe\"}"
+            },
+            {
+                "questionID": "9307_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [463, 1032], \"action_desc\": \"Tap on the search button at the bottom right corner of the screen\"}"
+            },
+            {
+                "questionID": "19817_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"wait\", \"time\": 2, \"action_desc\": \"Select the business goals template\"}"
+            },
+            {
+                "questionID": "15975_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [416, 841], \"action_desc\": \"Click on the OK button\"}"
+            },
+            {
+                "questionID": "18654_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [449, 139], \"action_desc\": \"Click on the cross icon presented on the right side at the top.\"}"
+            },
+            {
+                "questionID": "14259_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to view the details\"}"
+            },
+            {
+                "questionID": "6413_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to view more\"}"
+            },
+            {
+                "questionID": "6181_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to view more details\"}"
+            },
+            {
+                "questionID": "17111_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [251, 1018], \"action_desc\": \"Click on the Submit button at the bottom.\"}"
+            },
+            {
+                "questionID": "9722_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up\"}"
+            },
+            {
+                "questionID": "794_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to view more details\"}"
+            },
+            {
+                "questionID": "4803_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"swipe up for more artwork\"}"
+            },
+            {
+                "questionID": "12217_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up on the screen to view Artworks.\"}"
+            },
+            {
+                "questionID": "9588_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to view the details\"}"
+            },
+            {
+                "questionID": "3875_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"wait\", \"time\": 2, \"action_desc\": \"Click on the SUBMIT button\"}"
+            },
+            {
+                "questionID": "3176_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [310, 306], \"action_desc\": \"Click on the first option\"}"
+            },
+            {
+                "questionID": "14779_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [467, 156], \"action_desc\": \"click on the search icon\"}"
+            },
+            {
+                "questionID": "2174_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [416, 839], \"action_desc\": \"Click on the ok button.\"}"
+            },
+            {
+                "questionID": "18741_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to read the article\"}"
+            },
+            {
+                "questionID": "1198_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to view more\"}"
+            },
+            {
+                "questionID": "8908_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [252, 861], \"action_desc\": \"Click on the See all feedback button.\"}"
+            },
+            {
+                "questionID": "3559_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"left\", \"action_desc\": \"Swipe left to read more \"}"
+            },
+            {
+                "questionID": "16259_12",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up on the screen to view articles.\"}"
+            },
+            {
+                "questionID": "6045_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up until you find the Details tab.\"}"
+            },
+            {
+                "questionID": "2221_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up\"}"
+            },
+            {
+                "questionID": "11726_14",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [251, 562], \"action_desc\": \"Tap on the first search result\"}"
+            },
+            {
+                "questionID": "9144_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"wait\", \"time\": 2, \"action_desc\": \"Click on Radio Kavalam to play this podcast\"}"
+            },
+            {
+                "questionID": "13428_12",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up until you find the 7-night cruise.\"}"
+            },
+            {
+                "questionID": "16526_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll down to view more shoes.\"}"
+            },
+            {
+                "questionID": "15447_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"wait\", \"time\": 2, \"action_desc\": \"Click on the Donald Trump's potential third indictment\"}"
+            },
+            {
+                "questionID": "6003_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up to read the Article\"}"
+            },
+            {
+                "questionID": "10988_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [251, 1052], \"action_desc\": \"Click on the Select size tab at the bottom of the screen.\"}"
+            },
+            {
+                "questionID": "136_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"wait\", \"time\": 2, \"action_desc\": \"Swipe up to view artwork.\"}"
+            },
+            {
+                "questionID": "11296_11",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [301, 883], \"action_desc\": \"Click on the right arrow key\"}"
+            },
+            {
+                "questionID": "2582_14",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll down to view the full page\"}"
+            },
+            {
+                "questionID": "11305_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll down to view more arts like this to get inspiration from it.\"}"
+            },
+            {
+                "questionID": "7753_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up to read the article\"}"
+            },
+            {
+                "questionID": "9753_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up for the details \"}"
+            },
+            {
+                "questionID": "219_8",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to read more\"}"
+            },
+            {
+                "questionID": "6876_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [379, 1052], \"action_desc\": \"Click on the right button\"}"
+            },
+            {
+                "questionID": "10033_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to view the details\"}"
+            },
+            {
+                "questionID": "13490_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up to read the article\"}"
+            },
+            {
+                "questionID": "4881_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [131, 306], \"action_desc\": \"Click on the first result\"}"
+            },
+            {
+                "questionID": "6930_8",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll down to view more arts.\"}"
+            },
+            {
+                "questionID": "13390_8",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [94, 1055], \"action_desc\": \"Click on the preview button\"}"
+            },
+            {
+                "questionID": "19572_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up\"}"
+            },
+            {
+                "questionID": "12303_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [379, 1052], \"action_desc\": \"Click on the tick icon\"}"
+            },
+            {
+                "questionID": "5693_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [120, 931], \"action_desc\": \"Click on the See shop reviews option to view all reviews of this wrench.\"}"
+            },
+            {
+                "questionID": "4977_14",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [251, 821], \"action_desc\": \"Click on the disabled button under full moon alert\"}"
+            },
+            {
+                "questionID": "11390_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up on the screen to read the whole article.\"}"
+            },
+            {
+                "questionID": "10140_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up on the screen to view artworks.\"}"
+            },
+            {
+                "questionID": "5899_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"wait\", \"time\": 2, \"action_desc\": \"Open the first anime video \"}"
+            },
+            {
+                "questionID": "7838_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [252, 1062], \"action_desc\": \"Click on the tick icon at the bottom of the screen\"}"
+            },
+            {
+                "questionID": "7587_12",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Read the review of the U.S. Polo ASSN. Cresk Textured slip shoes\"}"
+            },
+            {
+                "questionID": "13934_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to read more\"}"
+            },
+            {
+                "questionID": "17510_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [434, 877], \"action_desc\": \"Click on the right arrow vector icon to view the movement of this planet.\"}"
+            },
+            {
+                "questionID": "8725_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [252, 299], \"action_desc\": \"click on artworks\"}"
+            },
+            {
+                "questionID": "2405_9",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"left\", \"action_desc\": \"Swipe left to read more\"}"
+            },
+            {
+                "questionID": "13070_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [251, 625], \"action_desc\": \"Click on the drop-down icon on the right side of the screen.\"}"
+            },
+            {
+                "questionID": "4889_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to read the article news\"}"
+            },
+            {
+                "questionID": "5906_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"wait\", \"time\": 2, \"action_desc\": \"At the bottom of the screen, click on the Continue tab.\"}"
+            },
+            {
+                "questionID": "19189_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [310, 482], \"action_desc\": \"Tap again on the Art & Culture category\"}"
+            },
+            {
+                "questionID": "13349_9",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"wait\", \"time\": 2, \"action_desc\": \"Click on the Save button to create this document.\"}"
+            },
+            {
+                "questionID": "14562_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to view more\"}"
+            },
+            {
+                "questionID": "11234_10",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up to read the article\"}"
+            },
+            {
+                "questionID": "19019_13",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up to view the full recipe for sauerbraten.\"}"
+            },
+            {
+                "questionID": "19300_18",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up  on the screen to read the article.\"}"
+            },
+            {
+                "questionID": "5446_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [463, 1037], \"action_desc\": \"Click on the search icon\"}"
+            },
+            {
+                "questionID": "5956_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to view the schedule\"}"
+            },
+            {
+                "questionID": "5794_10",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [252, 941], \"action_desc\": \"Click on View Project Info tab.\"}"
+            },
+            {
+                "questionID": "3845_10",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up on the screen.\"}"
+            },
+            {
+                "questionID": "19666_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up to view the recipe \"}"
+            },
+            {
+                "questionID": "2010_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"swipe down to view the chapters details \"}"
+            },
+            {
+                "questionID": "3948_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [464, 170], \"action_desc\": \"Click on the heart icon\"}"
+            },
+            {
+                "questionID": "9452_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [360, 732], \"action_desc\": \"Click on the new message option\"}"
+            },
+            {
+                "questionID": "7565_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [128, 473], \"action_desc\": \"select first search result\"}"
+            },
+            {
+                "questionID": "13248_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"wait\", \"time\": 2, \"action_desc\": \"Tap on the first search result\"}"
+            },
+            {
+                "questionID": "16101_8",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up to read the Article\"}"
+            },
+            {
+                "questionID": "13327_8",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"system_button\", \"button\": \"Back\", \"action_desc\": \"Go back to the previous page\"}"
+            },
+            {
+                "questionID": "1501_9",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll down to view more fighter jet arts to inspired by it.\"}"
+            },
+            {
+                "questionID": "10911_10",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [252, 311], \"action_desc\": \"Click on the play button\"}"
+            },
+            {
+                "questionID": "14172_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [379, 1052], \"action_desc\": \"Click on the tick icon\"}"
+            },
+            {
+                "questionID": "19927_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to read the artist\"}"
+            },
+            {
+                "questionID": "8583_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [252, 490], \"action_desc\": \"Click on the convert button\"}"
+            },
+            {
+                "questionID": "12885_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to read more\"}"
+            },
+            {
+                "questionID": "4377_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [315, 1087], \"action_desc\": \"Click on the edit option at the bottom of the screen\"}"
+            },
+            {
+                "questionID": "10554_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [252, 175], \"action_desc\": \"Click on the first result\"}"
+            },
+            {
+                "questionID": "828_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up to view details of the art piece. \"}"
+            },
+            {
+                "questionID": "17611_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [251, 1037], \"action_desc\": \"Click on the Show 27 products option \"}"
+            },
+            {
+                "questionID": "19088_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up on the screen to view the details\"}"
+            },
+            {
+                "questionID": "11559_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up\"}"
+            },
+            {
+                "questionID": "7767_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to view the recipe\"}"
+            },
+            {
+                "questionID": "3496_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up on the screen\"}"
+            },
+            {
+                "questionID": "17994_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up to view hotel details.\"}"
+            },
+            {
+                "questionID": "3347_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up\"}"
+            },
+            {
+                "questionID": "7609_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [390, 1088], \"action_desc\": \"Click on the apply button\"}"
+            },
+            {
+                "questionID": "17831_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to view to track the progress of plant\"}"
+            },
+            {
+                "questionID": "14681_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [196, 270], \"action_desc\": \"Click on the first result\"}"
+            },
+            {
+                "questionID": "10807_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"scroll down\"}"
+            },
+            {
+                "questionID": "6759_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [34, 91], \"action_desc\": \"click on the tick icon at the top left corner of the screen to save the changes\"}"
+            },
+            {
+                "questionID": "9074_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [252, 460], \"action_desc\": \"Click on the first news result\"}"
+            },
+            {
+                "questionID": "7860_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to read reviews \"}"
+            },
+            {
+                "questionID": "14454_9",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll down to read more \"}"
+            },
+            {
+                "questionID": "18068_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll down to view more work by the artist of this art.\"}"
+            },
+            {
+                "questionID": "8871_18",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up on the screen to read the article.\"}"
+            },
+            {
+                "questionID": "19657_9",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to view the menu \"}"
+            },
+            {
+                "questionID": "1892_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to view the price\"}"
+            },
+            {
+                "questionID": "5122_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up to view the street art\"}"
+            },
+            {
+                "questionID": "6708_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"left\", \"action_desc\": \"Swipe left on the t-shirts displayed on the screen.\"}"
+            },
+            {
+                "questionID": "13307_8",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up on the screen to view the articles.\"}"
+            },
+            {
+                "questionID": "16656_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up\"}"
+            },
+            {
+                "questionID": "586_10",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll down to view more articles\"}"
+            },
+            {
+                "questionID": "11672_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"system_button\", \"button\": \"Back\", \"action_desc\": \"go back\"}"
+            },
+            {
+                "questionID": "3812_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll down to view more details.\"}"
+            },
+            {
+                "questionID": "16379_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to read\"}"
+            },
+            {
+                "questionID": "14985_8",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"left\", \"action_desc\": \"Swipe left to read more\"}"
+            },
+            {
+                "questionID": "12390_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"left\", \"action_desc\": \"Swipe left to view more.\"}"
+            },
+            {
+                "questionID": "5029_8",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up\"}"
+            },
+            {
+                "questionID": "9961_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"swipe up\"}"
+            },
+            {
+                "questionID": "11239_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to read article \"}"
+            },
+            {
+                "questionID": "14723_9",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [94, 765], \"action_desc\": \"Click on All 2375 reviews\"}"
+            },
+            {
+                "questionID": "6402_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [379, 1024], \"action_desc\": \"Click on the tick icon\"}"
+            },
+            {
+                "questionID": "1474_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [43, 259], \"action_desc\": \"Click on the tab \\\"parallax\\\".\"}"
+            },
+            {
+                "questionID": "7607_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to read the article\"}"
+            },
+            {
+                "questionID": "10690_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"wait\", \"time\": 2, \"action_desc\": \"Click on the Deep Breathing option\"}"
+            },
+            {
+                "questionID": "15541_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll down to view more arts by Jonathan LeVine Projects.\"}"
+            },
+            {
+                "questionID": "6888_8",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"left\", \"action_desc\": \"Swipe left to read the article\"}"
+            },
+            {
+                "questionID": "1741_9",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [280, 376], \"action_desc\": \"Click on the Intro to area and perimeter\"}"
+            },
+            {
+                "questionID": "8982_12",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up on the screen.\"}"
+            },
+            {
+                "questionID": "841_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [252, 175], \"action_desc\": \"Click on the suggested result\"}"
+            },
+            {
+                "questionID": "185_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"wait\", \"time\": 2, \"action_desc\": \"Click on the search icon at the top right corner of the screen.\"}"
+            },
+            {
+                "questionID": "15518_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [463, 1032], \"action_desc\": \"Click on the search icon at the bottom right corner of the screen\"}"
+            },
+            {
+                "questionID": "15457_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"wait\", \"time\": 2, \"action_desc\": \"Click on the messages app to share this article\"}"
+            },
+            {
+                "questionID": "17748_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll down to view the details of this art.\"}"
+            },
+            {
+                "questionID": "4560_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to learn more\"}"
+            },
+            {
+                "questionID": "16705_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [252, 296], \"action_desc\": \"Click on the first news result\"}"
+            },
+            {
+                "questionID": "14670_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"down\", \"action_desc\": \"Swipe down to read about the first quarter moon phase.\"}"
+            },
+            {
+                "questionID": "2093_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up\"}"
+            },
+            {
+                "questionID": "18087_10",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"left\", \"action_desc\": \"swipe right to read more\"}"
+            },
+            {
+                "questionID": "11968_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [416, 843], \"action_desc\": \"Click on OK\"}"
+            },
+            {
+                "questionID": "7184_8",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [441, 1044], \"action_desc\": \"Click on to the next arrow at the bottom right corner of the screen.\"}"
+            },
+            {
+                "questionID": "11552_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"scroll down to see the details about the artwork\"}"
+            },
+            {
+                "questionID": "11135_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up on the screen to read the article.\"}"
+            },
+            {
+                "questionID": "18619_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up to read the Article\"}"
+            },
+            {
+                "questionID": "17444_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll down to view more arts.\"}"
+            },
+            {
+                "questionID": "7472_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [413, 626], \"action_desc\": \"Tap on the see all button\"}"
+            },
+            {
+                "questionID": "18231_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up\"}"
+            },
+            {
+                "questionID": "2288_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to read\"}"
+            },
+            {
+                "questionID": "12904_24",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll down to view the full tutorial\"}"
+            },
+            {
+                "questionID": "3241_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [418, 599], \"action_desc\": \"click on continue button at lower right corner of the screen \"}"
+            },
+            {
+                "questionID": "5677_3",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to read the article\"}"
+            },
+            {
+                "questionID": "6304_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to View details about the Apartment\"}"
+            },
+            {
+                "questionID": "1853_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [252, 394], \"action_desc\": \"Click on the first suggested recipe to view the recipe\"}"
+            },
+            {
+                "questionID": "18182_7",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up for the recipe\"}"
+            },
+            {
+                "questionID": "2195_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up to read the article\"}"
+            },
+            {
+                "questionID": "9231_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up for the details of the bus details\"}"
+            },
+            {
+                "questionID": "17977_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Swipe up to view more art pieces.\"}"
+            },
+            {
+                "questionID": "12856_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll down to view more arts.\"}"
+            },
+            {
+                "questionID": "19833_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"swipe\", \"direction\": \"up\", \"action_desc\": \"Scroll up to view the details\"}"
+            },
+            {
+                "questionID": "1300_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [252, 703], \"action_desc\": \"click on don't allow\"}"
+            },
+            {
+                "questionID": "5636_8",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [429, 472], \"action_desc\": \"Click on Trump's pleads not guilty to all charges\"}"
+            },
+            {
+                "questionID": "16353_5",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"terminate\", \"status\": \"success\", \"action_desc\": \"task has completed\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [397, 156], \"action_desc\": \"Click on the filter button.\"}"
+            }
+        ]
+    },
+    "actiontype_match_gt": {
+        "actiontype_match_numbers": 0,
+        "actiontype_match_details": []
+    }
+}

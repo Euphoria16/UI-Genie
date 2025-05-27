@@ -1,0 +1,49 @@
+{
+    "error_long_press": 7,
+    "all_long_press": 9,
+    "actiontype_notmatch_gt": {
+        "actiontype_notmatch_numbers": 6,
+        "actiontype_notmatch_details": [
+            {
+                "questionID": "13217_4",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"long_press\", \"coordinate\": [242, 472], \"time\": 2, \"action_desc\": \"Click on the screenshot file on the screen.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [467, 170], \"action_desc\": \"Click on the Document icon on the screen.\"}"
+            },
+            {
+                "questionID": "12863_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"long_press\", \"coordinate\": [175, 647], \"time\": 2, \"action_desc\": \"long press the file actuation_result.txt\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [479, 643], \"action_desc\": \"Tap on the dot icon of actuation_result.txt\"}"
+            },
+            {
+                "questionID": "10558_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"long_press\", \"coordinate\": [261, 166], \"time\": 2, \"action_desc\": \"Long press on the first recording\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [261, 167], \"action_desc\": \"Click on the Grocery Shopping Updates\"}"
+            },
+            {
+                "questionID": "140_1",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"long_press\", \"coordinate\": [54, 312], \"time\": 2, \"action_desc\": \"Long press on the \\\"the Queen's Gambit\\\" book.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [355, 99], \"action_desc\": \"Click on the search icon at the top.\"}"
+            },
+            {
+                "questionID": "6346_6",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"long_press\", \"coordinate\": [463, 957], \"time\": 2, \"action_desc\": \"Long press on the cross icon.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"type\", \"text\": \"Japan\", \"action_desc\": \"Enter the place, Japan.\"}"
+            },
+            {
+                "questionID": "640_2",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"long_press\", \"coordinate\": [290, 686], \"time\": 2, \"action_desc\": \"long press on the sheet to draw a circle\"}}\n</tool_call>",
+                "answer": "{\"action\": \"click\", \"coordinate\": [250, 156], \"action_desc\": \"Click on the circle icon\"}"
+            }
+        ]
+    },
+    "actiontype_match_gt": {
+        "actiontype_match_numbers": 1,
+        "actiontype_match_details": [
+            {
+                "questionID": "2921_0",
+                "gt": "<tool_call>\n{\"name\": \"mobile_use\", \"arguments\": {\"action\": \"long_press\", \"coordinate\": [337, 659], \"time\": 2, \"action_desc\": \"Long press on the image.\"}}\n</tool_call>",
+                "answer": "{\"action\": \"long_press\", \"coordinate\": [390, 1074], \"time\": 2, \"action_desc\": \"Long press on the image at the bottom right corner of the screen.\"}"
+            }
+        ]
+    }
+}
