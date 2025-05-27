@@ -63,7 +63,7 @@ We release two novel datasets that enable training GUI agents without manual ann
 | **UI-Genie-Agent-16k** | 16K | High-quality synthetic trajectories | [🤗 HuggingFace](https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-5k) |
 
 
-> 📢 **Note**: We currently release a 5K sample of our trajectory dataset. The full datasets (UI-Genie-Agent-16k and UI-Genie-RM-517k) will be released soon!
+> 📢 **Note**: We currently release a 5K sample of our trajectory dataset.
 
 
 ## 🛠️ Installation
