@@ -30,7 +30,7 @@ This work presents **UI-Genie**, a self-improving framework that enhances MLLM-b
 
 - **UI-Genie-RM**: First specialized reward model for GUI trajectory assessment with image-text interleaved architecture
 - **Self-Improvement Pipeline**: Progressive expansion of solvable GUI tasks through reward-guided exploration
-- **Synthetic Data Generation**: High-quality trajectory synthesis with accurate process supervision
+- **Synthetic Data Generation**: High-quality trajectory synthesis with outcome verification
 
 
 ## 🤖 Model Zoo
@@ -40,8 +40,8 @@ This work presents **UI-Genie**, a self-improving framework that enhances MLLM-b
 | Model | Size | AndroidControl-Low | AndroidControl-High | AndroidLab | Android Arena | Download |
 |-------|------|-------------------|---------------------|------------|---------------|----------|
 | | | SR | SR | SR | SR | |
-| UI-Genie-Agent | 3B | **93.8** | **72.9** | 28.8 | - | [🤗 HuggingFace](https://huggingface.co/UI-Genie/UI-Genie-Agent-3B) |
-| UI-Genie-Agent | 7B | **94.3** | **74.2** | **38.7** | **20.4** | [🤗 HuggingFace](https://huggingface.co/UI-Genie/UI-Genie-Agent-7B) |
+| UI-Genie-Agent | 3B | **93.8** | **72.9** | 28.8 | - | [🤗 HuggingFace](https://huggingface.co/HanXiao1999/UI-Genie-Agent-3B) |
+| UI-Genie-Agent | 7B | **94.3** | **74.2** | **38.7** | **20.4** | [🤗 HuggingFace](https://huggingface.co/HanXiao1999/UI-Genie-Agent-7B) |
 | UI-Genie-Agent | 72B | **94.8** | **77.0** | **41.2** | - | Coming soon
 
 
