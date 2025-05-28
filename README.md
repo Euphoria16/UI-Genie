@@ -8,7 +8,7 @@
 
 This work presents **UI-Genie**, a self-improving framework that enhances MLLM-based GUI Agents through iterative agent-reward model co-evolution, achieving state-of-the-art performance without manual annotation.
 
- [[📖 Paper]()] [[🤗 Models](https://huggingface.co/HanXiao1999/UI-Genie-Agent-7B)] [[📊 Dataset](https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-5k)]
+ [[📖 Paper](https://arxiv.org/abs/2505.21496)] [[🤗 Models](https://huggingface.co/HanXiao1999/UI-Genie-Agent-7B)] [[📊 Dataset](https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-5k)]
 
 ## 👀 Overview
 
