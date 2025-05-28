@@ -76,7 +76,7 @@ cd UI-Genie
 
 2. Create conda environment:
 ```bash
-conda create -n ui-genie python=3.9 -y
+conda create -n ui-genie python=3.10.12 -y
 conda activate ui-genie
 ```
 
