@@ -86,7 +86,7 @@ pip install -r requirements.txt
 ```
 
 
-## 📊 Evaluation
+## 📈 Evaluation
 
 ### Prerequisites
 
@@ -124,9 +124,9 @@ We train UI-Genie agents based on the **Qwen2.5-VL** model family with the [ms-s
 ### Training Data
 
 Our training pipeline combines multiple datasets:
-- **AndroidControl** training set
-- **AMEX** training set  
-- **AndroidLab** training set
+- [**AndroidControl**](https://github.com/google-research/google-research/tree/master/android_control) training set
+- [**AMEX**](https://huggingface.co/datasets/Yuxiang007/AMEX) training set  
+- [**AndroidLab**](https://github.com/THUDM/Android-Lab) training set
 - **[UI-Genie-Agent-16k](https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-5k)** 
 
 ### Training Scripts
