@@ -163,6 +163,7 @@ We thank the teams behind [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL), [A
 
 For questions and feedback, please open an issue or contact:
 - Han Xiao: [1155229123@link.cuhk.edu.hk](mailto:1155229123@link.cuhk.edu.hk)
+- Aojun Zhou: [aojunzhou@gmail.com](mailto:aojunzhou@gmail.com)
 
 ## 📄 License
 
