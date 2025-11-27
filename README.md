@@ -8,7 +8,7 @@
 
 This work presents **UI-Genie**, a self-improving framework that enhances MLLM-based GUI Agents through iterative agent-reward model co-evolution, achieving state-of-the-art performance without manual annotation.
 
- [[📖 Paper](https://arxiv.org/abs/2505.21496)] [[🤗 Models](https://huggingface.co/HanXiao1999/UI-Genie-Agent-7B)] [[📊 Dataset](https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-5k)]
+ [[📖 Paper](https://arxiv.org/abs/2505.21496)] [[🤗 Models & Datasets ](https://huggingface.co/collections/HanXiao1999/ui-genie)]
 
 ## 👀 Overview
 
@@ -126,7 +126,7 @@ Our training pipeline combines multiple datasets:
 - [**AndroidControl**](https://github.com/google-research/google-research/tree/master/android_control) training set
 - [**AMEX**](https://huggingface.co/datasets/Yuxiang007/AMEX) training set  
 - [**AndroidLab**](https://github.com/THUDM/Android-Lab) training set
-- **[UI-Genie-Agent-16k](https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-5k)** 
+- **[UI-Genie-Agent-16k](https://huggingface.co/datasets/HanXiao1999/UI-Genie-Agent-16k)** 
 
 ### Training Scripts
 
